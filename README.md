@@ -6,7 +6,7 @@
 [![JavaScriptバッジ](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 <p align="left">
   <a href="http://twitter.com/Asaka_Sora_">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/Asaka_Sora_?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="http://qiita.com/soraa24926">
     <img height="20" src="https://qiita-badge.apiapi.app/s/soraa24926/posts.svg" />
