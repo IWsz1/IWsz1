@@ -20,10 +20,10 @@
   <a href="https://stackoverflow.com/users/5720201/yutkat">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
-  <a href="[https://qiita.com/soraa24926]">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
+  <a href="http://qiita.com/soraa24926">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/soraa24926/posts.svg" />
   </a>
-  <//qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
+  <//qiita.com/soraa24926">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/soraa24926/contributions.svg" />
   </a>
 </p>
